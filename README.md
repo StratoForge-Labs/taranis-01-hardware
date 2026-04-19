@@ -1,2 +1,23 @@
-# taranis-01-hardware
-Hardware design repository including schematics, PCB layouts, and electronic system integration for the TARANIS-01 high-altitude balloon platform.
+# TARANIS-01 Hardware
+
+This repository contains the hardware design for the TARANIS-01 high-altitude balloon platform.
+
+## Scope
+
+- Schematics and PCB design
+- Power system
+- Embedded system integration
+- Communication hardware (LoRa, GPS)
+- Sensor interfaces
+
+## Tools
+
+- KiCad
+
+## Structure
+
+TBD
+
+## Status
+
+🚧 Under development – initial design phase
